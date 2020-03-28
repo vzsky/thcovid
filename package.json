@@ -1,11 +1,32 @@
 {
   "name": "thcovid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get real time official update of thailand covid19 situation",
   "main": "index.js",
   "scripts": {
     "test": "./index.js"
   },
+  "bin": {
+		"thcovid": "index.js"
+  },
+  "keywords": [
+		"corona",
+		"coronavirus",
+		"coronavirus-tracking",
+		"coronavirus-real-time",
+		"coronavirus-analysis",
+		"coronavirus-info",
+		"covid-19",
+		"covid-19-thailand",
+		"covid19",
+		"covid-thailand",
+		"corona-thailand",
+		"corona-thailand-official",
+		"thailand-official",
+		"corona",
+		"virus",
+		"my99n"
+	],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vzsky/thcovid.git"
