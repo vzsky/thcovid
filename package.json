@@ -1,0 +1,28 @@
+{
+  "name": "thcovid",
+  "version": "1.0.0",
+  "description": "get real time official update of thailand covid19 situation",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzsky/thcovid.git"
+  },
+  "author": "my99n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vzsky/thcovid/issues"
+  },
+  "homepage": "https://github.com/vzsky/thcovid#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash.orderby": "^4.6.0",
+    "meow": "^6.1.0",
+    "node-cli-handle-error": "^1.0.0",
+    "ora": "^4.0.3"
+  }
+}
